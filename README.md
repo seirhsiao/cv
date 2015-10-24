@@ -1,2 +1,2 @@
 # cv
-persinal resume
+personal resume
